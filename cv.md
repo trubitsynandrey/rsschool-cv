@@ -19,4 +19,4 @@ I'm looking forward to starting full-time job in the IT-sphere, for me, it's a n
 
 > “We are only as strong as we are united, as weak as we are divided.” - Albus Dumbledore
 
-p.s: I hope there's not too much grammar and other mistakes in my Eng. I can consume it on a decent level, but not produce :innocent: .
+P.S: I hope there's not too much grammar and other mistakes in my Eng. I can consume it on a decent level, but not produce :innocent: .
