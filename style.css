@@ -7,11 +7,10 @@ body {
 }
 
 img {
-  display: block;
-  margin-left: auto;
+  display: inline;
+  margin-left: 20px;
   margin-right: auto;
   max-width: 150px;
-  border-radius: 20px;
 }
 
 header {
@@ -38,6 +37,17 @@ blockquote {
   border-radius: 1em;
 }
 
+footer {
+  position: center;
+  margin: auto;
+  padding: 5px 5px;
+  display: block;
+  background-color: #A7B8BF;
+  color: white;
+  text-align: center;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
 a {
   margin-left: 10px;
 }
@@ -49,4 +59,17 @@ a {
 
 #name {
   text-align: center;
+}
+
+#github {
+  margin-left: 0px;
+
+}
+
+#profile {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 150px;
+  border-radius: 20px;
 }
